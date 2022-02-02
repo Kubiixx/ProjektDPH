@@ -1,7 +1,7 @@
 # ProjektDPH
 ## Vypracovaný první projekt kurzu - práce se sazbami DPH 28 zemí EU.
 
-### zadání projektu: 
+### Zadání projektu: 
 
 #### Zadání
 Naprogramuj aplikaci v Javě, která vypíše všechny státy Evropské unie, které mají sazbu daně z přidané hodnoty (DPH, VAT) vyšší, než 20 % a nepoužívají speciální sazbu DPH/VAT.
